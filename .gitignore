@@ -1,0 +1,14 @@
+.Rproj.user
+talks
+thesis_stuff
+manuscript
+cover_letters
+.Rhistory
+analyses/modeling/posteriors
+analyses/modeling/diagnostics
+analyses/modeling/computational_models/jags
+data
+analyses/data_prep
+analyses/2019_helversen
+*.RData
+*.rds
